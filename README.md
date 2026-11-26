@@ -6,9 +6,7 @@ This repository contains end-to-end machine learning implementations and busines
 
 ## Repository Structure
 * `Name_ML_Projects.ipynb`: Complete Jupyter Notebook containing data inspection, preprocessing pipelines, model training, validation experiments, test evaluations, and visualizations.
-* `TeamName_ML_Report.docx`: Executive business report summarizing methodology, comparative experiment results, visual evidence, recommendations, and limitations.
 
----
 
 ## Projects Overview
 
